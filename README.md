@@ -3,7 +3,7 @@ Samples from each game are in their respective folders.
 
 ## Blagmoz
 
-**Blagmoz** is an online multiplayer action platformer, and you can learn more about it on my portfolio page [here](https://www.samflemington.com/work/blagmoz).
+**Blagmoz** is an online multiplayer action platformer, and you can learn more about it on my portfolio page [here](https://www.samflemington.com/work/blagmoz). It was created in Godot 3.5.3 using GodotSteam.
 
 ### Included files:
 
@@ -20,7 +20,7 @@ SteamNetwork.gd: Provides a high-level interface for the Steam API networking fu
 **Pinpoint** is a juicy roguelike action game that leans heavily into a grappling hook movement ability. I learned a lot about game architecture from Blagmoz, and wanted to make Pinpoint as modular and expandable as possible.
 To do this, I use the composition design pattern which allows almost all of the code in the game to be reusable in many different scenarios.
 
-Pinpoint is still in early development.
+Pinpoint is still in early development, and unlike Blagmoz, is made with Godot 4.2.2.
 
 https://github.com/user-attachments/assets/b03c890b-5986-4bae-921f-6d9cafdcf310
 
